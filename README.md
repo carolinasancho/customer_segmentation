@@ -1,4 +1,4 @@
-# market_campaign_clusterization
+# Customer Segmentation
 
 The Company
 
